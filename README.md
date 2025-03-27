@@ -5,7 +5,7 @@
 </div>
 
 
-# 👋 Hey there, I'm Vidur Tiwari!
+## 👋 Hey there, I'm Vidur Tiwari!
 
 **Full-Stack Developer | MERN Stack Expert | Problem Solver**  
 
