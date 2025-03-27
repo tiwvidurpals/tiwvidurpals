@@ -6,11 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77c0f9,100:ecc6f1&height=200&section=header&text=Vidur's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width="100%" />
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=429CFF&center=true&multiline=true&width=435&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Vidur!+" width="100%" alt="Typing SVG" />
-</a>
 
-
+# 👋 Hey there, I'm Vidur Tiwari!
 
 **Full-Stack Developer | MERN Stack Expert | Problem Solver**  
 
