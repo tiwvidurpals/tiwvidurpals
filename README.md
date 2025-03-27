@@ -12,8 +12,6 @@
 
 
 
-# 👋 Hey there, I'm Vidur Tiwari!
-
 **Full-Stack Developer | MERN Stack Expert | Problem Solver**  
 
 I'm a **Full-Stack Developer** with over **4 years** of experience specializing in the **MERN stack**, **API integrations**, and **microservice architectures**. I focus on building **clean, responsive, and scalable** web applications that enhance user experience and performance.  
