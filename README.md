@@ -15,7 +15,7 @@ I'm a **Full-Stack Developer** with over **4 years** of experience specializing 
 
 I’m passionate about solving complex problems with creative coding solutions and always eager to explore the latest technologies. From designing efficient **backend systems** to crafting intuitive **user interfaces**, I thrive on turning ideas into powerful digital experiences.  
 
-Beyond coding, I love **hiking, camping, and immersing myself in nature**—because a fresh perspective often leads to the best solutions.  
+Beyond coding, I love **hiking, camping, and immersing myself in nature** because a fresh perspective often leads to the best solutions.  
 
 🚀 **Let’s build something incredible!**  
 
