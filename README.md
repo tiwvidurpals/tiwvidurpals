@@ -19,7 +19,7 @@ Beyond coding, I love **hiking, camping, and immersing myself in nature** becaus
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vidur-tiwari)
 [![Website](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=for-the-badge)](https://www.vidur.com.np)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vidurtiwari486@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dev.vidurt@gmail.com)
 
 
 ---
