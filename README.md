@@ -1,6 +1,4 @@
 <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftiwvidurpals&count_bg=%2377c0f9&title_bg=%23585858&icon=github.svg&icon_color=%23E7E7E7&title=Vidur's+GitHub&edge_flat=false" float="right"/>
-</a>
 
 <div display="flex" align-items="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77c0f9,100:ecc6f1&height=200&section=header&text=Vidur's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width="100%" />
@@ -84,6 +82,7 @@ Beyond coding, I love **hiking, camping, and immersing myself in nature** becaus
 
 
 ---
+
 
 
 **Let's turn ideas into reality together!** ✨
