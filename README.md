@@ -1,9 +1,6 @@
 <a href="https://hits.seeyoufarm.com">
-
-<div display="flex" align-items="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77c0f9,100:ecc6f1&height=200&section=header&text=Vidur's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width="100%" />
-</div>
-
+</a>
 
 ## 👋 Hey there, I'm Vidur Tiwari!
 
@@ -17,16 +14,13 @@ Beyond coding, I love **hiking, camping, and immersing myself in nature** becaus
 
 🚀 **Let’s build something incredible!**  
 
-
-
 ---
 
-
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vidur-tiwari)
 [![Website](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=for-the-badge)](https://www.vidur.com.np)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vidurtiwari486@gmail.com)
+
 
 ---
 
