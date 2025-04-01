@@ -6,7 +6,7 @@
 
 **Full-Stack Developer | MERN Stack Expert | Problem Solver**  
 
-I'm a **Full-Stack Developer** with over **4 years** of experience specializing in the **MERN stack**, **API integrations**, and **microservice architectures**. I focus on building **clean, responsive, and scalable** web applications that enhance user experience and performance.  
+I'm a **Full-Stack Developer** with over **5 years** of experience specializing in the **MERN stack**, **API integrations**, and **microservice architectures**. I focus on building **clean, responsive, and scalable** web applications that enhance user experience and performance.  
 
 I’m passionate about solving complex problems with creative coding solutions and always eager to explore the latest technologies. From designing efficient **backend systems** to crafting intuitive **user interfaces**, I thrive on turning ideas into powerful digital experiences.  
 
