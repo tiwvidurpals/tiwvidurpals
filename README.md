@@ -4,15 +4,15 @@
 
 ## 👋 Hey there, I'm Vidur Tiwari!
 
-**Full-Stack Developer | MERN Stack Expert | Problem Solver**  
+**Full-Stack Developer | AI Automation Engineer | MERN Stack Expert | Problem Solver**
 
-I'm a **Full-Stack Developer** with over **5 years** of experience specializing in the **MERN stack**, **API integrations**, and **microservice architectures**. I focus on building **clean, responsive, and scalable** web applications that enhance user experience and performance.  
+I'm a **Full-Stack Developer** and **AI Automation Engineer** with over **8 years** of experience specializing in the **MERN stack**, **API integrations**, **microservice architectures**, and **AI-powered automation systems**. I focus on building **clean, responsive, and scalable** web applications — and the automated infrastructure that makes them work harder for the businesses behind them.
 
-I’m passionate about solving complex problems with creative coding solutions and always eager to explore the latest technologies. From designing efficient **backend systems** to crafting intuitive **user interfaces**, I thrive on turning ideas into powerful digital experiences.  
+I'm passionate about solving complex problems with creative coding solutions and always eager to explore the latest technologies. From designing efficient **backend systems** and crafting intuitive **user interfaces**, to building **AI workflows** that recover leads, automate follow-ups, and run businesses on autopilot — I thrive on turning ideas into powerful digital experiences.
 
-Beyond coding, I love **hiking, camping, and immersing myself in nature** because a fresh perspective often leads to the best solutions.  
+Beyond coding, I love **hiking, camping, and immersing myself in nature** because a fresh perspective often leads to the best solutions.
 
-🚀 **Let’s build something incredible!**  
+🚀 **Let's build something incredible!**
 
 ---
 
